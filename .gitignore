@@ -82,3 +82,5 @@ arithmetic/__pycache__/
 
 data/BU3D-bq-final.mat
 data/BU3D_feature.mat
+/data
+/MNIST
